@@ -1,0 +1,151 @@
+
+.Abhinav {
+    background-color: #03174c;
+    height: 800px;
+    background-size: cover;
+}
+
+.first-back {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    height: 350px;
+    background-size: cover;
+}
+
+.Abhinav {
+    background-color: #03174c;
+}
+
+.sleep {
+    text-align: center;
+    color: white;
+    font-family: "Bree Serif";
+}
+
+.sleeep {
+    text-align: center;
+    color: white;
+    font-family: "Bree Serif";
+}
+
+.pad {
+    padding: 100px;
+}
+
+.night {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 250px;
+    background-size: cover;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 85px;
+}
+
+.island {
+    color: #ffe7bf;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.island-down {
+    color: #ffe7bf;
+    font-family: "Bree Serif";
+    text-align: center;
+    font-size: 18px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.but {
+    border-radius: 20px;
+    background-color: #8e97fd;
+    margin-left: 174px;
+    height: 40px;
+    width: 130px;
+    color: white;
+    font-family: "Bree Serif";
+}
+
+.Abhinav-s {
+    background-color: #03174c;
+    height: 890px;
+    background-size: cover;
+}
+
+.first-back-s {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/clouds-img.png");
+    height: 350px;
+    background-size: cover;
+}
+
+.slp {
+    color: white;
+    font-family: "Bree Serif";
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.plp {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.plpp {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.plppp {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.small-img {
+    height: 120px;
+    width: 180px;
+    margin-left: 30px;
+}
+
+.small-text-1 {
+    margin-left: 30px;
+    margin-right: 50px;
+    color: white;
+    font-family: "Bree Serif";
+}
+
+.small-text-2 {
+    margin-left: 70px;
+    margin-right: 50px;
+    color: white;
+    font-family: "Bree Serif";
+}
+
+.small-text-1-1 {
+    margin-left: 28px;
+    margin-right: 0px;
+    color: #98a1bd;
+    font-family: "Bree Serif";
+}
+
+.small-text-2-2 {
+    margin-left: 70px;
+    margin-right: 0px;
+    color: #98a1bd;
+    font-family: "Bree Serif";
+}
+
+.butt {
+    border-radius: 20px;
+    background-color: #8e97fd;
+    margin-left: 25px;
+    height: 40px;
+    width: 130px;
+    color: white;
+    font-family: "Bree Serif";
+}
